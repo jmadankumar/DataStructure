@@ -74,4 +74,19 @@ describe("Test queue data structure", () => {
     const queue = new Queue(6);
     expect(() => queue.rear()).toThrow("Queue is empty");
   });
+
+  test("should return queue is full", () => {
+    const queue = new Queue(2);
+
+    queue.enqueue(1);
+    queue.enqueue(2);
+
+    expect(queue.isFull()).toBe(true);
+  });
+
+  test("should return queue is empty", () => {
+    const queue = new Queue(2);
+
+    expect(queue.isEmpty()).toBe(true);
+  });
 });
