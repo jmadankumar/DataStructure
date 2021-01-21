@@ -4,9 +4,9 @@
 
 1. Stack
 2. Queue
-3. Priority Queue (coming soon...)
+3. Priority Queue
 4. Deque (coming soon...)
-5. Circular Queue (coming soon...)
+5. Circular Queue
 6. Linked List (coming soon...)
 7. Binary Tree (coming soon...)
 8. Binary Search Tree (coming soon...)
