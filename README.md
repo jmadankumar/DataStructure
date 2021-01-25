@@ -7,10 +7,13 @@
 3. Priority Queue
 4. Circular Queue
 5. Set (coming soon...)
-6. Linked List (coming soon...)
-7. Binary Tree (coming soon...)
-8. Binary Search Tree (coming soon...)
-9. Heap (coming soon...)
+6. Linked List
+7. Doubly Linked List
+8. Circular Linked List
+9. Hash Table (coming soon...)
+10. Binary Tree (coming soon...)
+11. Binary Search Tree (coming soon...)
+12. Heap (coming soon...)
 
 ## Languages used
 
