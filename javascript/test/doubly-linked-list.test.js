@@ -1,4 +1,4 @@
-import DoublyLinkedList from "../lib/DoublyLinkedList";
+import DoublyLinkedList from "../src/DoublyLinkedList";
 
 describe("Test Doubly Linked List", () => {
   test("should initialize Doubly Linked list with head and tail", () => {

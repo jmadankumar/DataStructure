@@ -1,4 +1,4 @@
-import CiruclarQueue from "../lib/CircularQueue";
+import CiruclarQueue from "../src/CircularQueue";
 
 describe("Test Circular Queue", () => {
   test("should initialize circular queue with default size", () => {

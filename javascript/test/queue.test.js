@@ -1,4 +1,4 @@
-import Queue from "../lib/Queue";
+import Queue from "../src/Queue";
 
 describe("Test queue data structure", () => {
   test("should initialize with the default capacity", () => {

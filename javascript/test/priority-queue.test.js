@@ -1,4 +1,4 @@
-import PriorityQueue from "../lib/PriorityQueue";
+import PriorityQueue from "../src/PriorityQueue";
 
 describe("Test Priority Queue", () => {
   test("should initialize priority queue with default capacity", () => {

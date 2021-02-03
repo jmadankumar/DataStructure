@@ -1,4 +1,4 @@
-import LinkedList from "../lib/LinkedList";
+import LinkedList from "../src/LinkedList";
 
 describe("Test Linked List", () => {
   test("Should initialize linked list", () => {

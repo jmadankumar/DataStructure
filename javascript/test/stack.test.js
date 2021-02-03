@@ -1,4 +1,4 @@
-import Stack from "../lib/Stack";
+import Stack from "../src/Stack";
 
 describe("Test stack data structure", () => {
   test("should initialize stack with the default capacity", () => {

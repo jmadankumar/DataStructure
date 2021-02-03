@@ -1,4 +1,4 @@
-import CircularLinkedList from "../lib/CircularLinkedList";
+import CircularLinkedList from "../src/CircularLinkedList";
 
 describe("Test Circular Linked List", () => {
   test("should initialize list with head pointing to null", () => {
